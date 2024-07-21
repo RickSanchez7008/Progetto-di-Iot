@@ -1,0 +1,2 @@
+http://localhost/auto1/index.php
+http://localhost/auto1/inserisci_targa.php
